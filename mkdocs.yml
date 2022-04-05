@@ -1,0 +1,24 @@
+site_name: Computer Science from Scratch
+theme:
+  name: material
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  palette: 
+    - primary: white
+      accent: light blue
+      toggle:
+        icon: material/lightbulb-off-outline 
+        name: Switch to dark mode
+    - primary: black
+      accent: light blue
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+extra:
+  homepage: https://github.com/HMUniversity
+
+repo_url: https://github.com/HMUniversity/CS101
+repo_name: HMUniversity/CS101
