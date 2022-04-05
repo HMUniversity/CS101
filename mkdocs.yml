@@ -1,4 +1,7 @@
+# mkdocs.yml
+
 site_name: Computer Science from Scratch
+
 theme:
   name: material
   logo: assets/favicon.png
@@ -17,8 +20,28 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-extra:
-  homepage: https://github.com/HMUniversity
 
 repo_url: https://github.com/HMUniversity/CS101
 repo_name: HMUniversity/CS101
+
+extra:
+  homepage: https://hmu.ac.cn/CS101/
+
+nav:
+  - About the course (HMU-1.101): 'index.md'
+  - Tools you need to learn:
+    - Git: 'tools-you-need-to-learn/git.md'
+    - GitHub: 'tools-you-need-to-learn/github.md'
+    - VSCode: 'tools-you-need-to-learn/vscode.md'
+    - VMWare: 'tools-you-need-to-learn/vmware.md'
+    - Linux: 'tools-you-need-to-learn/linux.md'
+    - GNU Make: 'tools-you-need-to-learn/gnu-make.md'
+    - Docker: 'tools-you-need-to-learn/docker.md'
+  - Start with creating a blog:
+    - Introduction: 'start-with-creating-a-blog/index.md'
+    - Create a blog: 'start-with-creating-a-blog/create-a-blog.md'
+  - Computer Network with C Language:
+    - C Language basic: 'computer-network-with-c-language/c-language-basic.md'
+    - Computer Network: 'computer-network-with-c-language/index.md'
+    - Implement of tcp chat room: 'computer-network-with-c-language/implement-of-tcp-chat-room.md'
+    - Implement of a web server: 'computer-network-with-c-language/implement-of-a-web-server.md'
