@@ -14,7 +14,7 @@ A good way is to learn the tools first, then get familiar with them and explore 
 
 ## Offered
 
-This is a course offered by [Home University](https://hmu.ac.cn/), and the course id is `CS101/HMU-1.101`, If you want to crontribute to this course, go [here](https://github.com/HMUniversity/CS101).
+This is a course offered by [Home University](https://hmu.ac.cn/), and the course id is `CS101/HMU-1.101`, If you want to contribute to this course, go [here](https://github.com/HMUniversity/CS101).
 
 
 ## Contributors
