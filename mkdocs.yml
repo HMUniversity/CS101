@@ -23,7 +23,7 @@ theme:
 
 repo_url: https://github.com/HMUniversity/CS101
 repo_name: HMUniversity/CS101
-
+edit_uri: edit/main/docs/
 extra:
   homepage: https://hmu.ac.cn/CS101/
 
