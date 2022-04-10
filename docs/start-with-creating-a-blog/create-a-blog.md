@@ -10,6 +10,6 @@ Okay, let's start!
 
 ## Sign up a [GitHub](https://github.com) account
 
-If you haven't learn how to use GitHub or even haven't sign it up, please read [GitHub](../tools-you-need-to-learn/github/).
+If you haven't learn how to use GitHub or even haven't sign it up, please read [GitHub](../../tools-you-need-to-learn/github/).
 
 ## Sign up a [Vercel](https://vercel.com) account
