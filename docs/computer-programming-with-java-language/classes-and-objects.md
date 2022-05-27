@@ -1,9 +1,13 @@
 # 1.0 Classes and Objects
 
+[zh-CN](classes-and-objects-zh-CN.md)
+
 # 1.1 What is a class? What is the object?
+
 As mentioned earlier, Java is an object-oriented programming language, and when we start learning a certain language, we are not only able to write programs, but also learn how to `design`, and the ability of such `design` is very convenient. That's the beauty of programming.
 
 I believe you can definitely find such definitions of `class` and `object` on the Internet:
+
 - Class (Class): defines the abstract characteristics of a thing. The definition of a class contains the form of the data and the operations on the data.
 - Object (Object): is an instance of a class (Instance).
 

@@ -1,6 +1,6 @@
 # Java
 
-[en-US](index.md)
+[zh-CN](index-zh-CN.md)
 
 Hi! Welcome to the world of Java!
 
