@@ -4,13 +4,13 @@ An elegant blog should meet the following three requirements:
 
 1. Easy to new / edit / delete each article
 2. Easy to deploy and migrate, and not easy to be hacked
-3. Could be edit everywhere with every device
+3. Could be edited everywhere with every device
 
 Okay, let's start!
 
 ## Sign up a [GitHub](https://github.com) account
 
-If you haven't learn how to use GitHub or even haven't sign it up, please read [GitHub](../../tools-you-need-to-learn/github/).
+If you haven't learned how to use GitHub or even haven't signed it up, please read [GitHub](../../tools-you-need-to-learn/github/).
 
 ## Use the template
 
@@ -33,7 +33,7 @@ Creating repository wouldn't take a minute, and you will be redirected to the re
 
 ![Edit1](assets/4.png)
 
-The first thing you need to edit is `url` (line 16), if you use the style like `username.github.io`, you just need to tyep `https://username.github.io/` here.
+The first thing you need to edit is `url` (line 16), if you use the style like `username.github.io`, you just need to type `https://username.github.io/` here.
 
 ```yml
 url: https://username.github.io/
