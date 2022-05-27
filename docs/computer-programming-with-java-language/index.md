@@ -1,13 +1,13 @@
 # Java
 
-[zh-CN](index-zh-CN.md)
+[en-US](index.md)
 
 Hi! Welcome to the world of Java!
 
 ## Introduction
 
-Java is a language, a language that both you and the computer understand, and what we've learned is how to express concepts in Java. And how to better express concepts, this is the original intention of Java as an object-oriented programming language.
+Java is a language, a pure object-oriented programming language, and what we have learned is how to express concepts through Java. And how to better express the concept, this is the original intention of Java.
 
 ## Table of contents
 
-- [objects](objects.md)
+- 1.0 [Classes and Objects](classes-and-objects.md)
