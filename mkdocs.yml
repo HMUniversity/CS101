@@ -37,6 +37,7 @@ nav:
     - Linux: 'tools-you-need-to-learn/linux.md'
     - GNU Make: 'tools-you-need-to-learn/gnu-make.md'
     - Docker: 'tools-you-need-to-learn/docker.md'
+    - Regex: 'tools-you-need-to-learn/regex.md'
   - Start with creating a blog:
     - Introduction: 'start-with-creating-a-blog/index.md'
     - Create a blog: 'start-with-creating-a-blog/create-a-blog.md'
