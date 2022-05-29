@@ -20,3 +20,4 @@ This is a course offered by [Home University](https://hmu.ac.cn/), and the cours
 ## Contributors
 
 * [mmdjiji](https://github.com/mmdjiji) (Professor of [St. Linus College](https://github.com/orgs/HMUniversity/teams/st-linus-college), [HMU](https://hmu.ac.cn/), course starter)
+* [Mikoto](https://github.com/mikoto2464) (Professor of [Alumni](https://github.com/orgs/HMUniversity/teams/alumni), [HMU](https://hmu.ac.cn/))
