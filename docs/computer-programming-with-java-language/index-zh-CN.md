@@ -10,7 +10,9 @@ Java是一门语言，是一门纯粹的面向对象程序设计语言，而我�
 
 ## 目录
 
+ - 1 **初识Java**
  - 1.0 [类和对象](classes-and-objects-zh-CN.md)
+ - 1.1 [接口](interfaces-zh-CN.md)
 
 ## 参考书目与资料
 

@@ -10,7 +10,9 @@ Java is a language, a pure object-oriented programming language, and what we hav
 
 ## Table of contents
 
-- 1.0 [Classes and Objects](classes-and-objects.md)
+ - 1 Getting to know Java
+ - 1.0 [Classes and Objects](classes-and-objects.md)
+ - 1.1 [Interfaces](interfaces.md)
 
 ## Bibliography and Materials
 
