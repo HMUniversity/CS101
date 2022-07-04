@@ -11,3 +11,9 @@ Java is a language, a pure object-oriented programming language, and what we hav
 ## Table of contents
 
 - 1.0 [Classes and Objects](classes-and-objects.md)
+
+## Bibliography and Materials
+
+ - Thinking in Java
+ - Design Patterns: Elements of Reusable Object-Oriented Software
+ - The Art of Java Concurrency Programming
