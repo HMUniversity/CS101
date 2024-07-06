@@ -27,3 +27,4 @@ We suggest that you can learn from [regex101](https://regexlearn.com/learn/regex
 * [Regex-Vis](https://regex-vis.com/) - Regex visualizer & editor
 * [iHateRegex](https://ihateregex.io/) - Common regexs here
 * [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced
+* [Pyrexp](https://pythonium.net/regex) - Regex visualizer & tester
